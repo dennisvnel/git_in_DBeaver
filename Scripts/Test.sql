@@ -5,3 +5,5 @@ SELECT
 FROM
 a_table
 ;
+
+-- next
